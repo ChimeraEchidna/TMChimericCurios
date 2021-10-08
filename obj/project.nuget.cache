@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qc/O/G7B+N0cAgczvc4mSGx3z8uzntx8tmyHjRqk3zfWRArncbRzhuFyaNeEhVk0sT8SVlT+83ngyrTFZbQzZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cameron Davis\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ChimericCurios\\ChimericCurios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cameron Davis\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
