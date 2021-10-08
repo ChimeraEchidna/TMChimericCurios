@@ -30,8 +30,8 @@ namespace ChimericCurios.Items
             item.useTurn = true;
             item.buffType = ModContent.BuffType<slowdebuff>();
             item.buffTime = 200;
-            item.scale = .8f;
-
+            item.scale = .7f;
+            
         }
         public override bool CanUseItem(Player player)
         {
@@ -40,7 +40,9 @@ namespace ChimericCurios.Items
 
         public override bool UseItem(Player player)
         {
-            
+            //var dust = Dust.NewDust(player.position, player.width, player.height, 79, 1f, 1f);
+            //Main.dust[dust].velocity *= 2f;
+
 
             return true;
         }
