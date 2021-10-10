@@ -1,5 +1,6 @@
 This mod is not really meant for mass use but should be functional
 The theme is to add items that have utility and will hopefully include more items as I figure out how to make them
 
+
 Absolutely none of this mod could be done without the work behind the tmodloader Example Mod (https://github.com/tModLoader/tModLoader/tree/master/ExampleMod) and the AlchemistNPC mod (https://forums.terraria.org/index.php?threads/alchemistnpc-v9-0.52798/)
 At the end of the day most of the ideas and concepts that go into the items of this mod are primarily reconsituted from those sources whom should be praised for their brillance and kindness to let access to their materials
